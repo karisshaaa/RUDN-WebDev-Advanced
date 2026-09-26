@@ -1,0 +1,17 @@
+schema: spec-driven
+change: add-board-card-count
+created: 2026-09-26
+status: draft
+artifacts:
+  - id: proposal
+    path: proposal.md
+    status: ready
+  - id: design
+    path: design.md
+    status: blocked
+  - id: specs
+    path: specs/
+    status: blocked
+  - id: tasks
+    path: tasks.md
+    status: blocked
